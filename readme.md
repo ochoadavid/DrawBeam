@@ -5,6 +5,8 @@ Beam plotter functions
 
 Some functions I use to plot beams, supports and loads for strenght of materials courses.
 
+![Example](example09.png)
+
 I haven't write proper docs, but please see the examples in the notebook, I think that they are self explanatory.
 
 Available functions are:
