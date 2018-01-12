@@ -79,8 +79,7 @@ Available functions are:
 
 **rep_pair**(x, y, diameter, start_angle, end_angle, lineformat='k-', 
           label_angle=0, offset=-1, label='', shw_label=True, label_offset=0.5, arrow_scale=.6)
-
-*Plots a couple force (moment).*
+    '''Plots a couple force (moment).'''
 
 -----------------------
 
